@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hi👋
+i am anuj from india  i am 19 years pld c,c++,java programer.
 
 <!--
 **ANUJTIWARI007/ANUJTIWARI007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
